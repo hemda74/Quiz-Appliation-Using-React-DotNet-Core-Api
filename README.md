@@ -10,6 +10,6 @@
 <p> 3.EntityframeworkCore.SqlServer</p>
 <p> 4.EntityframeworkCore.Design</p>
 <p> 5.EntityframeworkCore.CodeGeneration.Design</p>
-<p> 6.EntityframeworkCore.Relational</p><br>
-<h2>hello
+<p> 6.EntityframeworkCore.Relational</p><
+<h2 textalign="center"> Frontend
 <p>react.js
