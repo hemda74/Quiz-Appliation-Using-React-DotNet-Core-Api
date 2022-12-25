@@ -6,9 +6,9 @@
 <p>SSMS 2019</p>
 <p> 1.Entityframeworkcore<p>
 <p> 2.EntityframeworkCore.Tools</p>
-### 3.EntityframeworkCore.SqlServer
-### 4.EntityframeworkCore.Design
-### 5.EntityframeworkCore.CodeGeneration.Design
-### 6.EntityframeworkCore.Relational
-2--> Frontend
+<p> 3.EntityframeworkCore.SqlServer</p>
+<p> 4.EntityframeworkCore.Design</p>
+<p> 5.EntityframeworkCore.CodeGeneration.Design</p>
+<p> 6.EntityframeworkCore.Relational</p>
+<h5>2--> Frontend</h>
 <p>react.js</p>
