@@ -1,7 +1,7 @@
 # Quiz-Appliation-Using-React-DotNet-Core-Api
 ## Backend Tools & Packages
-<h6> Packges and Tools Work With in Backend</h6>
-<p> .Net 6 Wep Api</p>
+#### Packges and Tools Work With in Backend
+<p> .NET 6 Wep Api</p>
 <p> SQL Server</p> 
 <p>SSMS 2019</p>
 <p> 1.Entityframeworkcore<p>
