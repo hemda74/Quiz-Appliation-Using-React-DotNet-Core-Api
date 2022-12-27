@@ -18,6 +18,6 @@
 <p> 5.EntityframeworkCore.CodeGeneration.Design
 <p> 6.EntityframeworkCore.Relational
 <h2 align="center"> Frontend</h2>
-<p>react.js
+<p>React.js
 <p>Contextapi
 <p>MatrialUI
