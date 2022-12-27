@@ -10273,11 +10273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Web projects\\Quiz Appliation Using React + DotNet Core Api\\api-quiz\\api-quiz\\api-quiz.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\Quiz-Appliation-Using-React-DotNet-Core-Api\\api-quiz\\api-quiz\\api-quiz.csproj",
       "projectName": "api-quiz",
-      "projectPath": "D:\\Projects\\Web projects\\Quiz Appliation Using React + DotNet Core Api\\api-quiz\\api-quiz\\api-quiz.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\Quiz-Appliation-Using-React-DotNet-Core-Api\\api-quiz\\api-quiz\\api-quiz.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Web projects\\Quiz Appliation Using React + DotNet Core Api\\api-quiz\\api-quiz\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\Quiz-Appliation-Using-React-DotNet-Core-Api\\api-quiz\\api-quiz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2+8Yg9l3HfzPHhOtdFoT9yrSRUCIXFkPLU3k4nLU+1q4imoj7ubHxWSis5LnzljMd9lmo+4xnCSOHTAwVK+OSw==",
+  "dgSpecHash": "mcYaO0OKMZZn3LrfH/0OTQ7g6okajzY5eYZq80fNs7MehUspj8I2Qurx+jO2GcX8VFYcaLrzyiBOHy+55ZaZ2A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Web projects\\Quiz Appliation Using React + DotNet Core Api\\api-quiz\\api-quiz\\api-quiz.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\Quiz-Appliation-Using-React-DotNet-Core-Api\\api-quiz\\api-quiz\\api-quiz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

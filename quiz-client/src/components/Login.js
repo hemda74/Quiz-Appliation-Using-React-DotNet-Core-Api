@@ -6,7 +6,6 @@ import useForm from '../hooks/useForm'
 import { createAPIEndpoint, ENDPOINTS } from '../api'
 import useStateContext from '../hooks/useStateContext'
 import { useNavigate } from 'react-router'
-
 const getFreshModel = () => ({
     name: '',
     email: ''
@@ -45,17 +44,18 @@ export default function Login() {
     const validate = () => {
         let temp = {}
         temp.email = (/\S+@\S+\.\S+/).test(values.email) ? "" : "Email is not valid."
-        temp.name = values.name != "" ? "" : "This field is required."
+        temp.name = values.name !== "" ? "" : "This field is required."
         setErrors(temp)
-        return Object.values(temp).every(x => x == "")
+        return Object.values(temp).every(x => x === "")
     }
 
     return (
         <Center>
             <Card sx={{ width: 400 }}>
                 <CardContent sx={{ textAlign: 'center' }}>
+                            
                     <Typography variant="h3" sx={{ my: 3 }}>
-                        Quiz App
+                    Welcome to Quiz App    
                     </Typography>
                     <Box sx={{
                         '& .MuiTextField-root': {
@@ -65,14 +65,14 @@ export default function Login() {
                     }}>
                         <form noValidate autoComplete="off" onSubmit={login}>
                             <TextField
-                                label="Email"
+                                label="Enter your Mail"
                                 name="email"
                                 value={values.email}
                                 onChange={handleInputChange}
                                 variant="outlined"
                                 {...(errors.email && { error: true, helperText: errors.email })} />
                             <TextField
-                                label="Name"
+                                label="Enter your Name"
                                 name="name"
                                 value={values.name}
                                 onChange={handleInputChange}

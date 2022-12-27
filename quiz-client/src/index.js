@@ -6,10 +6,10 @@ import reportWebVitals from './reportWebVitals';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { CssBaseline } from '@mui/material/';
 import { ContextProvider } from './hooks/useStateContext';
-
-const darkTheme = createTheme({
+// change theme to light 
+const Theme = createTheme({
   palette: {
-    mode: 'dark',
+    mode: 'light',
   },
   typography:{
     fontFamily:'"IBM Plex Sans"'
@@ -19,7 +19,7 @@ const darkTheme = createTheme({
 ReactDOM.render(
   <React.StrictMode>
     <ContextProvider>
-      <ThemeProvider theme={darkTheme}>
+      <ThemeProvider theme={Theme}>
         <CssBaseline />
         <App />
       </ThemeProvider>

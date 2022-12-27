@@ -5,6 +5,7 @@ import { BASE_URL } from '../api';
 import ExpandCircleDownIcon from '@mui/icons-material/ExpandCircleDown';
 import { red, green,grey } from '@mui/material/colors';
 
+
 export default function Answer({qnAnswers}) {
     const [expanded, setExpanded] = React.useState(false);
 
@@ -37,7 +38,7 @@ export default function Answer({qnAnswers}) {
                             {item.qnInWords}
                         </Typography>
                     </AccordionSummary>
-                    <AccordionDetails sx={{ backgroundColor: grey[900] }}>
+                    <AccordionDetails sx={{ backgroundColor: grey[100] }}>
                         {item.imageName ?
                             <CardMedia
                                 component="img"
