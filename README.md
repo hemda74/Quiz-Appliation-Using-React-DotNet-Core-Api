@@ -1,5 +1,4 @@
-# Quiz-Appliation-Using-React-DotNet-Core-Api
-## Backend Tools & Packages
+ Quiz-Appliation-Using-React-DotNet-Core-Api
 <h2 align="center"> Packges and Tools Work With in Backend</h2>
 <p> .NET 6 Wep Api
 <p> SQL Server 
@@ -10,7 +9,7 @@
 <p> 4.EntityframeworkCore.Design
 <p> 5.EntityframeworkCore.CodeGeneration.Design
 <p> 6.EntityframeworkCore.Relational
-<h2 align="center"> Frontend
+<h2 align="center"> Frontend</h2>
 <p>react.js
 <p>Contextapi
 <p>MatrialUI
