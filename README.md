@@ -1,5 +1,5 @@
 <h1 align="center">Quiz-Appliation-Using-React-DotNet-Core-Api</h1>
-<img src="./1.png" width=600px Height=300px></img>
+<img src="./1.png" width=800px Height=400px></img>
 <h2> App Featurs </h2>
 <h3> Responsive on all Screens </h3>
 <h3>Authentication For Login </h3>
