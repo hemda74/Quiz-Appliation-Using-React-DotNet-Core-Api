@@ -5,7 +5,7 @@
 <h3>Authentication For Login </h3>
 <p> Validate mail and name if new mail with new name then will add new user to database if not it will append new quiz result to user results list </p>
 <p>
-<img  src="./0.png" width=600px Height=300px></img>
+<img  src="./0.png" width=900px Height=300px></img>
 <p> ------------------------------------------------------------------------------------------------------------</p>
 <img  src="./0.0.png" width=600px Height=300px></img>
 <h3  > Get random 5 questions From Database </h3>
