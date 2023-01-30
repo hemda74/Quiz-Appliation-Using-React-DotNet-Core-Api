@@ -19,6 +19,7 @@
 <h3 > User Can submit answer to his results list or retake the exam </h3>
 <img  src="./4.png" width=1000px Height=400px></img>
 <h2 > Packges and Tools Work With in Backend</h2>
+<p> C# 
 <p> .NET 6 Wep Api
 <p> SQL Server 
 <p>SSMS 2019
@@ -32,3 +33,6 @@
 <p>React.js
 <p>Contextapi
 <p>MatrialUI
+<p> Html 
+<p> Css
+<p> Javascript
